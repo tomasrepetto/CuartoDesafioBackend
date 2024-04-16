@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Nada Personal",
+    "description": "Soda Stereo",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc123",
+    "stock": 5,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Fuerza Natural",
+    "description": "Gustavo Cerati",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc124",
+    "stock": 5,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Bocanada",
+    "description": "Gustavo Cerati",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc125",
+    "stock": 5,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Piano Bar",
+    "description": "Charly Garcia",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc126",
+    "stock": 5,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Clics Modernos",
+    "description": "Charly Garcia",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc127",
+    "stock": 5,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Disco Eterno",
+    "description": "Soda Stereo",
+    "price": 3000,
+    "thumbnails": [],
+    "code": "abc130",
+    "stock": 5,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Luzbelito",
+    "description": "Patricio Rey y sus redonditos de ricota",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc144",
+    "stock": 8,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Lobo Suelto",
+    "description": "Patricio Rey y sus redonditos de ricota",
+    "price": 1000,
+    "thumbnails": [],
+    "code": "abc147",
+    "stock": 8,
+    "category": "Rock Nacional",
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Infame",
+    "description": "Babasonicos",
+    "price": "1000",
+    "thumbnails": [],
+    "code": "abc165",
+    "stock": "5",
+    "category": "Pop Nacional",
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "Jessico",
+    "description": "Babasonicos",
+    "price": "2000",
+    "thumbnails": [],
+    "code": "abc177",
+    "stock": "5",
+    "category": "Pop Nacional",
+    "status": true
+  }
+]
